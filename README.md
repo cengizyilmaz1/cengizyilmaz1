@@ -21,11 +21,11 @@
 
 ## 📊 GitHub İstatistikleri
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=cengizyilmaz1&theme=highcontrast&hide_border=do%C4%9Fru)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cengizyilmaz1&theme=highcontrast&hide_border=" alt="GitHub Streak" /></a>
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=proflim&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=proflim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
