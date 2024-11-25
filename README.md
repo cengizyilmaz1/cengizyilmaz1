@@ -21,6 +21,7 @@
 
 ## 📊 GitHub İstatistikleri
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cengizyilmaz1&theme=highcontrast&hide_border=do%C4%9Fru)](https://git.io/streak-stats)
   <img src="https://github-profile-trophy.vercel.app/?username=proflim&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
