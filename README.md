@@ -23,7 +23,6 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cengizyilmaz1&theme=highcontrast&hide_border=" alt="GitHub Streak" /></a>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=proflim&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
